@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main- Alphabet
+ * main-Alphabet some more
  *
  * Return: Always (Success)
  */
