@@ -15,7 +15,7 @@ int main(void)
 
 	for (c = 'a'; c <= 'f'; c++)
 	{
-		purchar(c);
+		putchar(c);
 	}
 
 	putchar('\n');
