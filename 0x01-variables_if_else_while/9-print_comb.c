@@ -1,17 +1,25 @@
 #include <stdio.h>
-
 /**
- * main
+ * main - Comb
  *
  * Return: Always (Success)
  */
 int main(void)
 {
-	char c;
+	int c;
 
-	for (c = 'a' ; c <= 'Z'; c++)
+	for (c = '0'; c <= '9'; c++)
+	{
 		putchar(c);
 
+		if (c != '9')
+		{
+			putchar(',');
+			putchar(' ');
+		}
+	}
+
 	putchar('\n');
+
 	return (0);
 }
