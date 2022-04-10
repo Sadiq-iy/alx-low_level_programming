@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main
+ * main-Last digit
  *
  * Return: Always (Success)
  */
