@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *_isalpha -check for lower case letter
+*_isalpha-check for lower case letter
  * @c : character tp check
  * Retuen:0 or 1
  */
