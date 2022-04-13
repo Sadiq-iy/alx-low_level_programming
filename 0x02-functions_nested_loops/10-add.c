@@ -3,7 +3,7 @@
 *add-returns the sum of its parameters
  * @a: int type number
  * @b: int type number
- *Returns:0 and other
+ * Return:0 and 1
  */
 
 int add(int a, int b)

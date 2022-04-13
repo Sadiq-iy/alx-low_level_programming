@@ -3,7 +3,7 @@
 /**
 *_isalpha-check for lower case letter
  * @c : character tp check
- * Retuen:0 or 1
+ * Return:0 and 1
  */
 
 int _isalpha(int c)
