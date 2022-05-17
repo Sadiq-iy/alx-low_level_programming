@@ -3,8 +3,9 @@
 /**
  * print_strings - prints strings
  * @seperator: string to be printed to the function
+ * @n: number of strings pass to a function
  *
- * Return: no return
+  * Return: no return
  */
 void print_strings(const char *seperator, const unsigned int n, ...)
 {
@@ -28,6 +29,6 @@ void print_strings(const char *seperator, const unsigned int n, ...)
 				printf("%s", seperator);
 	}
 
-	printf("\n");
+	printf("\n"); 
 	va_end(valist);
 }
