@@ -20,6 +20,6 @@ void print_numbers(const char *seperator, const unsigned int n, ...)
 		if (seperator && i < n - 1)
 			printf("%s", seperator);
 	}
-	prinf("\n");
+	printf("\n");
 	va_end(valist);
 }
