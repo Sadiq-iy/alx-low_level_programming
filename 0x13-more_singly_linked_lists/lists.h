@@ -18,7 +18,7 @@ typedef struct listint_s
 } listint_t;
 
 /**
- * sruct listp_s - singly linked list
+ * struct listp_s - singly linked list
  * @p: pointers of node
  * @next: points to the nexr node
  *
