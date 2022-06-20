@@ -6,7 +6,7 @@
  * @age- age of the dog
  * @owner- owner of the dog
  * Description: a structur with a name , age , and owner of the dog
- */
+ **/
 
 typedef struct dog
 {
